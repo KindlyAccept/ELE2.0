@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "id": "act-craft",
+      "text": "Craft is making things with your hands. You can use paper, glue, scissors, and colouring things. Making a card, a paper plane, or a mask are crafts. Ask a grown-up before you use scissors. Clean up when you finish.",
+      "topic": "facts",
+      "subtopic": "activities",
+      "keywords": ["craft", "make", "paper", "glue", "scissors", "art"],
+      "question_hints": ["What can I make", "Ideas for craft", "Easy thing to make"]
+    },
+    {
+      "id": "act-outside",
+      "text": "Playing outside is good for you. You can run, jump, play ball, or ride a bike. Being in nature can make you feel calm. Always stay where a grown-up can see you and wear a helmet if you cycle.",
+      "topic": "facts",
+      "subtopic": "activities",
+      "keywords": ["outside", "play", "run", "park", "nature"],
+      "question_hints": ["What can I do outside", "Why play outside", "Ideas for outdoor play"]
+    },
+    {
+      "id": "act-reading",
+      "text": "Reading is looking at words in a book and understanding the story or facts. You can read alone or someone can read to you. Books can take you to new places. Visit the library to find books you like.",
+      "topic": "facts",
+      "subtopic": "activities",
+      "keywords": ["reading", "book", "books", "library", "story"],
+      "question_hints": ["Why read books", "What can I read", "Where do I get books"]
+    },
+    {
+      "id": "act-games",
+      "text": "Games are activities with rules. Board games and card games are played with others; you take turns and sometimes compete. Playing games helps you learn to follow rules and be a good sport when you win or lose.",
+      "topic": "facts",
+      "subtopic": "activities",
+      "keywords": ["game", "games", "board game", "play", "rules"],
+      "question_hints": ["What games can I play", "How do we play games", "Good games for kids"]
+    },
+    {
+      "id": "act-simple-experiment",
+      "text": "A simple experiment is trying something to see what happens. For example put an ice cube in a warm place and see it melt. Ask a grown-up before you use anything sharp or hot. Science can be fun and surprising.",
+      "topic": "facts",
+      "subtopic": "activities",
+      "keywords": ["experiment", "science", "try", "what happens", "fun"],
+      "question_hints": ["Easy experiment for kids", "What can I try", "Simple science"]
+    },
+    {
+      "id": "act-helping",
+      "text": "Helping at home can be an activity. You might set the table, put toys away, or feed a pet. Helping makes others happy and shows you care. Grown-ups can tell you what is safe for you to do.",
+      "topic": "facts",
+      "subtopic": "activities",
+      "keywords": ["help", "helping", "chores", "home", "kind"],
+      "question_hints": ["How can I help at home", "What can I do to help", "Simple chores for kids"]
+    }
+  ]
+}

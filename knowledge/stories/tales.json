@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "id": "story-lion-mouse",
+      "text": "Once a tiny mouse ran over a sleeping lion. The lion woke up and was cross. The mouse said, \"Please let me go; one day I will help you.\" The lion laughed but let the mouse go. Later the lion was caught in a net. The mouse bit the ropes and set him free. Even small friends can be a big help.",
+      "topic": "stories",
+      "keywords": ["story", "lion", "mouse", "help", "friends", "kindness"],
+      "question_hints": ["Tell me a story", "Story about a lion", "Short story for kids"]
+    },
+    {
+      "id": "story-tortoise-hare",
+      "text": "A hare was sure he would win a race against a slow tortoise. He ran ahead and then had a nap. The tortoise kept walking, one step at a time. When the hare woke up, the tortoise had already reached the end. Slow and steady can win.",
+      "topic": "stories",
+      "keywords": ["story", "tortoise", "hare", "race", "slow", "steady", "try"],
+      "question_hints": ["Story about tortoise and hare", "Tell me a race story", "Famous story"]
+    },
+    {
+      "id": "story-boy-cried-wolf",
+      "text": "A boy looked after sheep. He shouted \"Wolf!\" as a joke and the villagers ran to help. There was no wolf. He did it again and they were cross. When a real wolf came, he shouted but nobody came. Tell the truth so people trust you.",
+      "topic": "stories",
+      "keywords": ["story", "wolf", "sheep", "truth", "lie", "trust"],
+      "question_hints": ["Story about boy who cried wolf", "Why we tell the truth", "Short story"]
+    },
+    {
+      "id": "story-ant-grasshopper",
+      "text": "In summer the ant worked hard, storing food. The grasshopper sang and played. When winter came the grasshopper had no food and was cold. The ant shared a little. It is good to work a bit and save for later, and also to be kind.",
+      "topic": "stories",
+      "keywords": ["story", "ant", "grasshopper", "work", "save", "kind"],
+      "question_hints": ["Story about ant and grasshopper", "Why save for later", "Tell me a story"]
+    },
+    {
+      "id": "story-kindness-star",
+      "text": "A little girl shared her sandwich with a boy who had none. He smiled and said thank you. The next day he brought her an apple. Being kind often makes others kind too, and everyone feels better.",
+      "topic": "stories",
+      "keywords": ["story", "kindness", "share", "friends", "help"],
+      "question_hints": ["Story about being kind", "Sharing story", "Short nice story"]
+    },
+    {
+      "id": "story-scared-dark",
+      "text": "A rabbit was scared of the dark. One night his friend the owl said, \"Look up.\" The rabbit saw thousands of stars. The dark was still there but the stars made it beautiful. Sometimes things we are scared of can surprise us in a good way.",
+      "topic": "stories",
+      "keywords": ["story", "scared", "dark", "stars", "brave", "friend"],
+      "question_hints": ["Story about being scared of dark", "Story with a rabbit", "Short bedtime story"]
+    },
+    {
+      "id": "story-new-kid",
+      "text": "A new kid sat alone at lunch. Another child went over and said, \"Do you want to sit with us?\" The new kid smiled and said yes. After that they played together. One kind word can make someone feel welcome.",
+      "topic": "stories",
+      "keywords": ["story", "new kid", "friend", "kind", "school", "include"],
+      "question_hints": ["Story about new kid at school", "How to make friends", "Include someone story"]
+    },
+    {
+      "id": "story-mistake-fix",
+      "text": "Sam dropped his friend’s toy and it broke. He felt bad but he said sorry and helped fix it with tape. It was not perfect but his friend said, \"That’s okay. You said sorry and tried to fix it.\" Saying sorry and trying to fix things helps.",
+      "topic": "stories",
+      "keywords": ["story", "sorry", "mistake", "fix", "friends", "apologize"],
+      "question_hints": ["Story about saying sorry", "I broke something story", "Fix a mistake"]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "id": "vehicles-car",
+      "text": "A car is a vehicle with wheels that runs on roads. It has an engine and seats for people. Cars need fuel or electricity to go. Always wear a seatbelt and sit in the back if you are a child. A grown-up drives the car.",
+      "topic": "facts",
+      "subtopic": "vehicles",
+      "keywords": ["car", "cars", "wheels", "engine", "road", "seatbelt"],
+      "question_hints": ["What is a car", "How does a car work", "Why wear a seatbelt"]
+    },
+    {
+      "id": "vehicles-plane",
+      "text": "A plane is a vehicle that flies in the sky. Its wings and engines help it lift off the ground. Planes can carry people and things across the world. You sit in a seat and fasten your seatbelt when the plane takes off.",
+      "topic": "facts",
+      "subtopic": "vehicles",
+      "keywords": ["plane", "airplane", "fly", "sky", "wings", "airport"],
+      "question_hints": ["How do planes fly", "What is an airplane", "Have you been on a plane"]
+    },
+    {
+      "id": "vehicles-boat",
+      "text": "A boat is a vehicle that floats on water. Some boats have sails; some have motors. Big boats that cross the ocean are called ships. On a boat you should wear a life jacket and listen to the person in charge.",
+      "topic": "facts",
+      "subtopic": "vehicles",
+      "keywords": ["boat", "ship", "water", "sail", "life jacket"],
+      "question_hints": ["What is a boat", "How does a boat float", "Why wear a life jacket"]
+    },
+    {
+      "id": "vehicles-train",
+      "text": "A train runs on rails called tracks. Many train cars are connected and pulled by an engine. Trains can take people or goods from one place to another. You wait on the platform and get on when the train stops.",
+      "topic": "facts",
+      "subtopic": "vehicles",
+      "keywords": ["train", "trains", "rails", "tracks", "station"],
+      "question_hints": ["What is a train", "Where do trains run", "How does a train work"]
+    },
+    {
+      "id": "vehicles-bicycle",
+      "text": "A bicycle has two wheels and you pedal to make it go. You wear a helmet to protect your head. Bikes are good for short trips and exercise. Remember to look both ways and follow the rules of the road.",
+      "topic": "facts",
+      "subtopic": "vehicles",
+      "keywords": ["bicycle", "bike", "pedal", "helmet", "wheels"],
+      "question_hints": ["How does a bike work", "Why wear a helmet", "What is a bicycle"]
+    },
+    {
+      "id": "vehicles-bus",
+      "text": "A bus is a big vehicle that carries many people. It stops at bus stops so people can get on and off. You pay a fare or show a pass. Hold on if you are standing and stay in your seat until the bus stops.",
+      "topic": "facts",
+      "subtopic": "vehicles",
+      "keywords": ["bus", "bus stop", "travel", "public", "ride"],
+      "question_hints": ["What is a bus", "How do I use a bus", "Where does the bus stop"]
+    }
+  ]
+}

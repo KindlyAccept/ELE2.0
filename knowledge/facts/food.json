@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "id": "food-where-from",
+      "text": "Food comes from plants and animals. Vegetables and fruits grow on farms. Milk and eggs come from animals that farmers look after. Bread is made from wheat. Everything we eat was grown or made somewhere.",
+      "topic": "facts",
+      "subtopic": "food",
+      "keywords": ["food", "farm", "vegetables", "milk", "where food comes from"],
+      "question_hints": ["Where does food come from", "How do we get milk", "Where do vegetables grow"]
+    },
+    {
+      "id": "food-healthy-eating",
+      "text": "Healthy eating means having a mix of foods: vegetables and fruit, bread or pasta, and some meat, fish, or beans. Try to eat less sweets and crisps. Drinking water is good for you. Breakfast gives you energy for the day.",
+      "topic": "facts",
+      "subtopic": "food",
+      "keywords": ["healthy", "vegetables", "fruit", "meal", "balanced"],
+      "question_hints": ["What is healthy food", "What should I eat", "Why is breakfast important"]
+    },
+    {
+      "id": "food-fruits",
+      "text": "Fruits are the sweet part of plants that have seeds. Apples, bananas, oranges, and berries are fruits. They have vitamins that help you stay healthy. Fruits are a good snack.",
+      "topic": "facts",
+      "subtopic": "food",
+      "keywords": ["fruit", "fruits", "apple", "banana", "vitamins", "snack"],
+      "question_hints": ["What are fruits", "Why eat fruit", "Name some fruits"]
+    },
+    {
+      "id": "food-vegetables-eat",
+      "text": "Vegetables are good for your body. They have fibre and vitamins. Carrots, broccoli, peas, and salad are vegetables. Try different colours; each colour can help you in different ways. Wash them before eating.",
+      "topic": "facts",
+      "subtopic": "food",
+      "keywords": ["vegetables", "carrots", "broccoli", "vitamins", "healthy"],
+      "question_hints": ["Why eat vegetables", "What vegetables are there", "Are vegetables good for you"]
+    },
+    {
+      "id": "food-water",
+      "text": "Water is important for your body. You need it to stay hydrated. Drink water when you are thirsty, especially when it is hot or when you play. Water from the tap is usually safe to drink.",
+      "topic": "facts",
+      "subtopic": "food",
+      "keywords": ["water", "drink", "thirsty", "hydrated", "healthy"],
+      "question_hints": ["Why drink water", "How much water should I drink", "Is water good for you"]
+    },
+    {
+      "id": "food-sugar",
+      "text": "Sugar is in sweets, cakes, and some drinks. A little is okay but too much can be bad for your teeth and body. Try to have more fruit and water and fewer sugary snacks. Brushing your teeth after sweet food helps.",
+      "topic": "facts",
+      "subtopic": "food",
+      "keywords": ["sugar", "sweets", "teeth", "healthy", "snacks"],
+      "question_hints": ["Is sugar bad", "Why not too many sweets", "What happens if I eat too much sugar"]
+    }
+  ]
+}

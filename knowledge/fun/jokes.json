@@ -1,0 +1,88 @@
+{
+  "entries": [
+    {
+      "id": "joke-knock-dinosaur",
+      "text": "Knock knock. Who's there? A dinosaur. A dinosaur who? A dinosaur that says rawr and doesn't know any more words!",
+      "topic": "fun",
+      "keywords": ["joke", "knock knock", "dinosaur", "kids"],
+      "question_hints": ["Tell me a joke", "Knock knock joke", "Dinosaur joke"]
+    },
+    {
+      "id": "joke-why-sun-glasses",
+      "text": "Why did the Sun go to school? To get brighter!",
+      "topic": "fun",
+      "keywords": ["joke", "sun", "school", "bright"],
+      "question_hints": ["Tell me a joke", "Sun joke", "School joke"]
+    },
+    {
+      "id": "joke-dog-tree",
+      "text": "What do you get when a dog runs around a tree? A barking lot of fun!",
+      "topic": "fun",
+      "keywords": ["joke", "dog", "tree", "bark"],
+      "question_hints": ["Dog joke", "Tell me something funny", "Joke about a dog"]
+    },
+    {
+      "id": "joke-book-nose",
+      "text": "Why did the kid put his book under the pillow? He wanted to read in his dreams!",
+      "topic": "fun",
+      "keywords": ["joke", "book", "pillow", "dream"],
+      "question_hints": ["Tell me a joke", "Book joke", "Funny joke"]
+    },
+    {
+      "id": "joke-snowman-morning",
+      "text": "What did the snowman say in the morning? Good ice to see you!",
+      "topic": "fun",
+      "keywords": ["joke", "snowman", "ice", "morning"],
+      "question_hints": ["Snowman joke", "Tell me a joke", "Winter joke"]
+    },
+    {
+      "id": "joke-cow-wave",
+      "text": "What do you call a cow that can do tricks? A cow that says moo-ve over and then waves! Just a silly cow.",
+      "topic": "fun",
+      "keywords": ["joke", "cow", "silly", "animal"],
+      "question_hints": ["Cow joke", "Animal joke", "Something funny"]
+    },
+    {
+      "id": "joke-banana-slip",
+      "text": "Why did the banana go to the doctor? It wasn’t peeling well!",
+      "topic": "fun",
+      "keywords": ["joke", "banana", "doctor", "peel"],
+      "question_hints": ["Banana joke", "Tell me a joke", "Food joke"]
+    },
+    {
+      "id": "joke-fish-school",
+      "text": "Why do fish live in school? Because they like to work on their current events!",
+      "topic": "fun",
+      "keywords": ["joke", "fish", "school", "ocean"],
+      "question_hints": ["Fish joke", "Ocean joke", "Tell me a joke"]
+    },
+    {
+      "id": "joke-chicken-road",
+      "text": "Why did the chicken cross the playground? To get to the other slide!",
+      "topic": "fun",
+      "keywords": ["joke", "chicken", "playground", "slide"],
+      "question_hints": ["Chicken joke", "Why did the chicken cross", "Playground joke"]
+    },
+    {
+      "id": "joke-tired-bed",
+      "text": "What did the blanket say to the bed? Don’t worry, I’ve got you covered!",
+      "topic": "fun",
+      "keywords": ["joke", "bed", "blanket", "covered"],
+      "question_hints": ["Tell me a joke", "Bedtime joke", "Funny joke"]
+    },
+    {
+      "id": "joke-cat-mouse",
+      "text": "What do you get when you mix a cat and a mouse? A very confused cat and a very fast mouse!",
+      "topic": "fun",
+      "keywords": ["joke", "cat", "mouse", "silly"],
+      "question_hints": ["Cat joke", "Mouse joke", "Tell me something funny"]
+    },
+    {
+      "id": "joke-rain-umbrella",
+      "text": "What’s the best thing to do when it’s raining cats and dogs? Stay inside so you don’t step in a poodle!",
+      "topic": "fun",
+      "keywords": ["joke", "rain", "dog", "umbrella", "silly"],
+      "question_hints": ["Rain joke", "Tell me a joke", "Weather joke"]
+    }
+  ]
+}

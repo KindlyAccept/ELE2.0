@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "id": "plants-need",
+      "text": "Plants need light, water, and air to grow. They use their roots to drink from the soil and their leaves to catch sunlight. Many plants grow from tiny seeds.",
+      "topic": "facts",
+      "subtopic": "plants",
+      "keywords": ["plants", "grow", "light", "water", "seed", "roots", "leaves"],
+      "question_hints": ["What do plants need", "How do plants grow", "What is a seed"]
+    },
+    {
+      "id": "plants-trees",
+      "text": "Trees are big plants with a thick stem called a trunk and branches with leaves. They give us shade and oxygen. Some trees lose their leaves in autumn and grow them again in spring.",
+      "topic": "facts",
+      "subtopic": "plants",
+      "keywords": ["tree", "trees", "trunk", "branches", "leaves", "oxygen", "autumn"],
+      "question_hints": ["What is a tree", "Why do leaves fall", "What do trees give us"]
+    },
+    {
+      "id": "plants-flowers",
+      "text": "Flowers are the pretty part of many plants. They often have bright colours and a nice smell to attract bees and butterflies. Seeds sometimes form after the flower dies.",
+      "topic": "facts",
+      "subtopic": "plants",
+      "keywords": ["flower", "flowers", "bees", "butterflies", "colours", "smell"],
+      "question_hints": ["Why do flowers have colours", "What are flowers for", "Flowers and bees"]
+    },
+    {
+      "id": "plants-seasons",
+      "text": "In spring many plants wake up and grow new leaves and flowers. In summer they are green and full. In autumn leaves turn red or yellow and fall. In winter some plants sleep under the snow.",
+      "topic": "facts",
+      "subtopic": "plants",
+      "keywords": ["seasons", "spring", "summer", "autumn", "winter", "leaves"],
+      "question_hints": ["What happens to plants in spring", "Why do leaves change colour", "Seasons and plants"]
+    },
+    {
+      "id": "plants-bees",
+      "text": "Bees visit flowers to collect nectar and pollen. While they do that, they help flowers make seeds by moving pollen from one flower to another. Bees make honey from nectar.",
+      "topic": "facts",
+      "subtopic": "plants",
+      "keywords": ["bee", "bees", "nectar", "pollen", "honey", "flowers"],
+      "question_hints": ["What do bees do", "How do bees make honey", "Why are bees important"]
+    },
+    {
+      "id": "plants-vegetables",
+      "text": "Vegetables are parts of plants we eat. Carrots are roots. Lettuce is leaves. Broccoli is flowers. Peas and beans are seeds. Eating vegetables helps you stay healthy.",
+      "topic": "facts",
+      "subtopic": "plants",
+      "keywords": ["vegetables", "carrot", "lettuce", "broccoli", "eat", "healthy"],
+      "question_hints": ["What are vegetables", "Is a carrot a root", "Why eat vegetables"]
+    }
+  ]
+}

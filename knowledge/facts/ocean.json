@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "id": "ocean-what",
+      "text": "The ocean is a huge body of salt water. There are several oceans on Earth and they are all connected. The ocean is home to many animals and plants. Waves on the surface are made by wind.",
+      "topic": "facts",
+      "subtopic": "ocean",
+      "keywords": ["ocean", "sea", "salt water", "waves", "big"],
+      "question_hints": ["What is the ocean", "Is the ocean salty", "What makes waves"]
+    },
+    {
+      "id": "ocean-dolphin",
+      "text": "Dolphins are smart animals that live in the ocean. They breathe air so they come to the surface. They live in groups and talk to each other with clicks and whistles. They are friendly and sometimes jump out of the water.",
+      "topic": "facts",
+      "subtopic": "ocean",
+      "keywords": ["dolphin", "dolphins", "ocean", "smart", "mammal"],
+      "question_hints": ["What is a dolphin", "Do dolphins breathe air", "Are dolphins fish"]
+    },
+    {
+      "id": "ocean-whale",
+      "text": "Whales are very big ocean animals. They are mammals like us so they breathe air. The blue whale is the biggest animal on Earth. Some whales sing long songs that travel far under the water.",
+      "topic": "facts",
+      "subtopic": "ocean",
+      "keywords": ["whale", "whales", "blue whale", "big", "mammal", "ocean"],
+      "question_hints": ["What is the biggest animal", "Do whales breathe air", "Do whales sing"]
+    },
+    {
+      "id": "ocean-fish-sea",
+      "text": "The ocean is full of fish. Fish have gills to breathe under water and fins to swim. Some fish live near the surface; others live deep down where it is dark. Colourful fish often live near coral reefs.",
+      "topic": "facts",
+      "subtopic": "ocean",
+      "keywords": ["fish", "ocean", "gills", "coral", "reef"],
+      "question_hints": ["What fish live in the ocean", "How do fish breathe", "What is a coral reef"]
+    },
+    {
+      "id": "ocean-tide",
+      "text": "Tides are when the ocean water moves up and down the beach. The Moon’s gravity pulls the water. When the water comes in it is high tide; when it goes out it is low tide. This happens about twice a day.",
+      "topic": "facts",
+      "subtopic": "ocean",
+      "keywords": ["tide", "tides", "beach", "moon", "high tide", "low tide"],
+      "question_hints": ["What are tides", "Why does the sea go in and out", "What causes tides"]
+    },
+    {
+      "id": "ocean-beach",
+      "text": "The beach is where the land meets the ocean. Sand is often made of tiny bits of rock and shells. At the beach you can build sandcastles, look for shells, and paddle in the water. Always stay where a grown-up can see you.",
+      "topic": "facts",
+      "subtopic": "ocean",
+      "keywords": ["beach", "sand", "shells", "sea", "sandcastle"],
+      "question_hints": ["What is the beach", "What is sand", "What can you do at the beach"]
+    }
+  ]
+}

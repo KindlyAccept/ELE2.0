@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "id": "body-heart",
+      "text": "Your heart is a muscle that pumps blood around your body. It beats all the time, even when you sleep. You can feel your heartbeat by putting your hand on your chest or your wrist. Exercise keeps your heart healthy.",
+      "topic": "facts",
+      "subtopic": "human_body",
+      "keywords": ["heart", "beat", "blood", "pump", "healthy"],
+      "question_hints": ["What does the heart do", "Where is my heart", "Why does my heart beat"]
+    },
+    {
+      "id": "body-bones",
+      "text": "Bones form your skeleton and give your body shape. They protect your heart and brain. You have more than 200 bones. Milk and playing outside help your bones stay strong as you grow.",
+      "topic": "facts",
+      "subtopic": "human_body",
+      "keywords": ["bones", "skeleton", "strong", "milk", "grow"],
+      "question_hints": ["What are bones for", "How many bones do I have", "How to have strong bones"]
+    },
+    {
+      "id": "body-sleep",
+      "text": "Sleep helps your body and brain rest and grow. Most children need about 9 to 11 hours of sleep each night. When you sleep well you feel happier and can learn better. A calm bedtime helps you fall asleep.",
+      "topic": "facts",
+      "subtopic": "human_body",
+      "keywords": ["sleep", "rest", "bedtime", "night", "grow"],
+      "question_hints": ["Why do we sleep", "How much sleep do I need", "Why is sleep important"]
+    },
+    {
+      "id": "body-exercise",
+      "text": "Exercise means moving your body: running, jumping, swimming, or playing. It makes your muscles and heart stronger and helps you feel good. Playing outside or doing sports are fun ways to exercise.",
+      "topic": "facts",
+      "subtopic": "human_body",
+      "keywords": ["exercise", "run", "play", "strong", "healthy"],
+      "question_hints": ["Why is exercise good", "What is exercise", "How do I stay healthy"]
+    },
+    {
+      "id": "body-wash-hands",
+      "text": "Washing your hands with soap and water gets rid of germs. Wash before eating, after using the toilet, and after playing outside. Rub for about 20 seconds and dry your hands well. Clean hands help you stay well.",
+      "topic": "facts",
+      "subtopic": "human_body",
+      "keywords": ["wash hands", "soap", "germs", "clean", "healthy"],
+      "question_hints": ["Why wash hands", "When should I wash my hands", "How to wash hands"]
+    },
+    {
+      "id": "body-teeth",
+      "text": "Teeth help you bite and chew food. You have baby teeth first; then adult teeth grow. Brush your teeth twice a day with toothpaste to keep them clean and strong. Visiting the dentist helps too.",
+      "topic": "facts",
+      "subtopic": "human_body",
+      "keywords": ["teeth", "brush", "dentist", "baby teeth", "clean"],
+      "question_hints": ["Why do we brush teeth", "How many teeth do I have", "What are baby teeth"]
+    }
+  ]
+}

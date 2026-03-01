@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "id": "emo-names",
+      "text": "Feelings have names. Happy, sad, angry, scared, excited, and calm are some. It is okay to feel any of these. Naming how you feel can help you and others understand. You can say \"I feel happy\" or \"I feel cross.\"",
+      "topic": "facts",
+      "subtopic": "emotions",
+      "keywords": ["feelings", "emotions", "happy", "sad", "angry", "name"],
+      "question_hints": ["What are feelings", "How do I say how I feel", "Names for emotions"]
+    },
+    {
+      "id": "emo-happy",
+      "text": "When you are happy you might smile or feel like playing. Good things like seeing a friend or doing something fun can make you happy. Sharing your happiness with others can make them happy too.",
+      "topic": "facts",
+      "subtopic": "emotions",
+      "keywords": ["happy", "happiness", "smile", "good", "fun"],
+      "question_hints": ["When do I feel happy", "What is happiness", "Why am I happy"]
+    },
+    {
+      "id": "emo-sad",
+      "text": "Feeling sad is normal. Something might have gone wrong or you might miss someone. It is okay to cry. Telling a grown-up or friend can help. Sad feelings usually don’t last forever; they get better with time and care.",
+      "topic": "facts",
+      "subtopic": "emotions",
+      "keywords": ["sad", "sadness", "cry", "normal", "help"],
+      "question_hints": ["Why do I feel sad", "Is it okay to cry", "What to do when sad"]
+    },
+    {
+      "id": "emo-angry",
+      "text": "Anger is when you feel cross or mad. It can happen when something is unfair or you can’t do what you want. It is okay to feel angry but not okay to hurt people or things. Take breaths, step away, or tell a grown-up.",
+      "topic": "facts",
+      "subtopic": "emotions",
+      "keywords": ["angry", "anger", "cross", "mad", "calm down"],
+      "question_hints": ["Why am I angry", "What to do when angry", "Is it okay to be angry"]
+    },
+    {
+      "id": "emo-scared",
+      "text": "Feeling scared means you think something bad might happen. Everyone gets scared sometimes. Talking to a trusted grown-up can help. They can help you feel safe. Brave doesn’t mean never being scared; it means trying anyway.",
+      "topic": "facts",
+      "subtopic": "emotions",
+      "keywords": ["scared", "afraid", "fear", "safe", "brave"],
+      "question_hints": ["Why do I feel scared", "What to do when scared", "How to feel brave"]
+    },
+    {
+      "id": "emo-calming",
+      "text": "When feelings are too big you can try to calm your body. Breathe slowly: in through your nose, out through your mouth. Count to five. Squeeze your hands and then let go. Find a quiet place if you need to.",
+      "topic": "facts",
+      "subtopic": "emotions",
+      "keywords": ["calm", "calm down", "breathe", "relax", "big feelings"],
+      "question_hints": ["How do I calm down", "What to do when upset", "Breathing to feel better"]
+    }
+  ]
+}

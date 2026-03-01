@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "id": "geo-earth-land-water",
+      "text": "Earth has land and water. The big areas of water are oceans. The land is split into continents. There are seven continents: Africa, Antarctica, Asia, Europe, North America, South America, and Oceania.",
+      "topic": "facts",
+      "subtopic": "geography",
+      "keywords": ["earth", "continents", "oceans", "land", "water", "world"],
+      "question_hints": ["What are continents", "How many continents", "What is on Earth"]
+    },
+    {
+      "id": "geo-mountain",
+      "text": "A mountain is a very tall piece of land. Some have snowy tops. The highest mountain on Earth is Mount Everest. People climb mountains with special gear. Hills are smaller than mountains.",
+      "topic": "facts",
+      "subtopic": "geography",
+      "keywords": ["mountain", "mountains", "Mount Everest", "high", "snow"],
+      "question_hints": ["What is a mountain", "What is the highest mountain", "Do mountains have snow"]
+    },
+    {
+      "id": "geo-river",
+      "text": "A river is running water that flows from high land to lower land, often to the sea or a lake. Rivers give water to plants and animals. People use rivers for drinking water and sometimes for boats.",
+      "topic": "facts",
+      "subtopic": "geography",
+      "keywords": ["river", "rivers", "flow", "water", "lake", "sea"],
+      "question_hints": ["What is a river", "Where does river water go", "Why are rivers important"]
+    },
+    {
+      "id": "geo-country-city",
+      "text": "The world is divided into countries. Each country has its own name, flag, and often its own language. Big towns where lots of people live and work are called cities. You might live in a city, a town, or the countryside.",
+      "topic": "facts",
+      "subtopic": "geography",
+      "keywords": ["country", "countries", "city", "flag", "world"],
+      "question_hints": ["What is a country", "What is a city", "How many countries are there"]
+    },
+    {
+      "id": "geo-map",
+      "text": "A map is a drawing of a place. It shows where things are: roads, rivers, countries, or towns. North is often at the top. Maps help us find our way and learn about the world.",
+      "topic": "facts",
+      "subtopic": "geography",
+      "keywords": ["map", "maps", "direction", "north", "find way"],
+      "question_hints": ["What is a map", "How do we use a map", "What does a map show"]
+    },
+    {
+      "id": "geo-weather-places",
+      "text": "Different places have different weather. Places near the middle of Earth are often hot. Places near the top or bottom are often cold. Near the sea it might be wet; inland it might be dry. That is why we have deserts, rainforests, and snow.",
+      "topic": "facts",
+      "subtopic": "geography",
+      "keywords": ["place", "weather", "hot", "cold", "desert", "rainforest"],
+      "question_hints": ["Why is it hot in some places", "What is a desert", "Why are there different climates"]
+    }
+  ]
+}

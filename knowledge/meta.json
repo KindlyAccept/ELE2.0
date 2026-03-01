@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "description": "Knowledge base for child-friendly RAG. Facts are split by topic; no age band.",
+  "sources": [
+    { "file": "facts/dinosaurs.json", "topic": "facts", "subtopic": "dinosaurs" },
+    { "file": "facts/space.json", "topic": "facts", "subtopic": "space" },
+    { "file": "facts/animals.json", "topic": "facts", "subtopic": "animals" },
+    { "file": "facts/plants.json", "topic": "facts", "subtopic": "plants" },
+    { "file": "facts/weather.json", "topic": "facts", "subtopic": "weather" },
+    { "file": "facts/ocean.json", "topic": "facts", "subtopic": "ocean" },
+    { "file": "facts/human_body.json", "topic": "facts", "subtopic": "human_body" },
+    { "file": "facts/vehicles.json", "topic": "facts", "subtopic": "vehicles" },
+    { "file": "facts/food.json", "topic": "facts", "subtopic": "food" },
+    { "file": "facts/geography.json", "topic": "facts", "subtopic": "geography" },
+    { "file": "facts/music_art.json", "topic": "facts", "subtopic": "music_art" },
+    { "file": "facts/activities.json", "topic": "facts", "subtopic": "activities" },
+    { "file": "facts/emotions.json", "topic": "facts", "subtopic": "emotions" },
+    { "file": "social/scripts.json", "topic": "social" },
+    { "file": "safety/rules.json", "topic": "safety" },
+    { "file": "stories/tales.json", "topic": "stories" },
+    { "file": "fun/jokes.json", "topic": "fun" }
+  ],
+  "retrieval": {
+    "max_chunks_per_query": 3,
+    "max_chars_per_chunk": 300,
+    "strategy": "embedding",
+    "cache_dir": "cache"
+  }
+}

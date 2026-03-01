@@ -1,0 +1,54 @@
+# Emotion Robot - Unified dependency list
+# Python packages + system/external dependencies
+
+# ============================================================
+# System / external dependencies (not pip-installable)
+# ============================================================
+# hailo-ollama       - LLM inference service, Hailo-10H NPU, port 11434
+#                     Install: Hailo official package or apt/system package
+# Piper              - TTS speech synthesis, CLI tool
+#                     Models: Data/Models/piper_semaine/
+# Node.js + npm      - web_monitor frontend build and run
+#                     Install: npm install (in web_monitor/frontend/)
+# HailoRT            - Hailo NPU driver, /dev/hailo0
+# curl               - run_all.sh checks hailo-ollama readiness
+
+# ============================================================
+# Python dependencies (pip install -r requirements.txt)
+# ============================================================
+
+# ===== Main: Audio =====
+pyalsaaudio>=0.9.2        # ALSA audio interface
+pygame>=2.5.0             # Audio playback (TTS)
+
+# ===== Main: Vision =====
+opencv-python>=4.8.0     # Image processing and camera
+onnxruntime>=1.15.0      # ONNX inference (FER, Piper TTS)
+
+# ===== Main: ASR =====
+faster-whisper>=0.10.0   # Whisper optimized
+
+# ===== Main: SER =====
+torch>=2.0.0             # PyTorch
+transformers>=4.30.0     # HuBERT and pretrained models
+
+# ===== Main: LLM =====
+# LLM via hailo-ollama HTTP API
+# llama-cpp-python for RAG embedding (optional, omit if no knowledge base)
+llama-cpp-python>=0.2.0
+
+# ===== Main: Utilities =====
+numpy>=1.24.0            # Numerical computing
+soundfile>=0.12.0       # Audio file I/O
+scipy>=1.10.0           # Signal processing
+PyYAML>=6.0             # Config parsing
+
+# ===== web_monitor backend =====
+fastapi>=0.110
+uvicorn[standard]>=0.27
+aiortc>=1.6.0            # WebRTC
+av>=11.0.0               # Audio/video codec
+requests>=2.31
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+python-multipart>=0.0.6

@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "id": "dino-trex-what",
+      "text": "Tyrannosaurus rex, or T. rex, was a big meat-eating dinosaur. It lived about 68 to 66 million years ago. It had huge teeth and strong legs, and it walked on two legs.",
+      "topic": "facts",
+      "subtopic": "dinosaurs",
+      "keywords": ["tyrannosaurus", "t rex", "trex", "dinosaur", "meat eater", "carnivore", "big dinosaur"],
+      "question_hints": ["What is T rex", "Tell me about Tyrannosaurus", "What did T rex look like"]
+    },
+    {
+      "id": "dino-trex-size",
+      "text": "T. rex was one of the biggest meat-eating dinosaurs. It could be about 12 metres long and 4 metres tall. Its head was very big and its tail helped it balance.",
+      "topic": "facts",
+      "subtopic": "dinosaurs",
+      "keywords": ["t rex size", "how big", "tyrannosaurus", "length", "tall"],
+      "question_hints": ["How big was T rex", "How long was Tyrannosaurus", "T rex size"]
+    },
+    {
+      "id": "dino-trex-teeth",
+      "text": "T. rex had about 60 teeth. Each tooth could be as long as your hand. The teeth were sharp and curved, good for eating other dinosaurs. New teeth grew when old ones broke.",
+      "topic": "facts",
+      "subtopic": "dinosaurs",
+      "keywords": ["t rex teeth", "teeth", "sharp", "tyrannosaurus"],
+      "question_hints": ["Did T rex have sharp teeth", "How many teeth did T rex have", "T rex teeth"]
+    },
+    {
+      "id": "dino-trex-arms",
+      "text": "T. rex had very short arms with two fingers on each. Scientists are not sure what they were for. They might have helped when getting up from the ground or holding food.",
+      "topic": "facts",
+      "subtopic": "dinosaurs",
+      "keywords": ["t rex arms", "short arms", "tiny arms", "tyrannosaurus"],
+      "question_hints": ["Why did T rex have small arms", "T rex arms", "How many fingers did T rex have"]
+    },
+    {
+      "id": "dino-when-lived",
+      "text": "Dinosaurs lived a very long time ago. They were on Earth for more than 150 million years. The last dinosaurs died out about 66 million years ago. People did not live at the same time as dinosaurs.",
+      "topic": "facts",
+      "subtopic": "dinosaurs",
+      "keywords": ["when did dinosaurs live", "extinction", "million years", "age of dinosaurs"],
+      "question_hints": ["When did dinosaurs live", "Did people meet dinosaurs", "When did dinosaurs die"]
+    },
+    {
+      "id": "dino-herbivore",
+      "text": "Many dinosaurs ate plants. They are called plant-eaters or herbivores. Some had long necks to reach tall trees. Others had thick bodies and armour or spikes to stay safe.",
+      "topic": "facts",
+      "subtopic": "dinosaurs",
+      "keywords": ["plant eating dinosaur", "herbivore", "vegetarian dinosaur", "long neck"],
+      "question_hints": ["What did dinosaurs eat", "Plant eating dinosaurs", "Did all dinosaurs eat meat"]
+    },
+    {
+      "id": "dino-stegosaurus",
+      "text": "Stegosaurus was a plant-eating dinosaur with big flat plates on its back and spikes on its tail. It lived in North America. The plates might have helped it stay warm or look big to other dinosaurs.",
+      "topic": "facts",
+      "subtopic": "dinosaurs",
+      "keywords": ["stegosaurus", "plates", "spikes", "plant eater"],
+      "question_hints": ["What is Stegosaurus", "Dinosaur with plates on back", "Stegosaurus spikes"]
+    },
+    {
+      "id": "dino-triceratops",
+      "text": "Triceratops had three horns on its face and a big bony frill around its neck. It ate plants and could use its horns to defend itself. It lived at the same time as T. rex.",
+      "topic": "facts",
+      "subtopic": "dinosaurs",
+      "keywords": ["triceratops", "three horns", "frill", "plant eater"],
+      "question_hints": ["What is Triceratops", "Dinosaur with three horns", "Triceratops and T rex"]
+    },
+    {
+      "id": "dino-fossils",
+      "text": "We learn about dinosaurs from fossils. Fossils are the hardened remains or prints of animals and plants that lived long ago. Bones, teeth, and footprints can become fossils in rocks.",
+      "topic": "facts",
+      "subtopic": "dinosaurs",
+      "keywords": ["fossils", "dinosaur bones", "how we know", "paleontology"],
+      "question_hints": ["How do we know about dinosaurs", "What are fossils", "Dinosaur bones"]
+    }
+  ]
+}

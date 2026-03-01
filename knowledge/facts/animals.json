@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "id": "animals-dog-what",
+      "text": "Dogs are animals that people often keep as pets. They are related to wolves but have lived with people for thousands of years. Dogs can be big or small and come in many colours and breeds.",
+      "topic": "facts",
+      "subtopic": "animals",
+      "keywords": ["dog", "dogs", "pet", "puppy", "canine", "breed"],
+      "question_hints": ["What is a dog", "Tell me about dogs", "Are dogs related to wolves"]
+    },
+    {
+      "id": "animals-dog-senses",
+      "text": "Dogs have a very good sense of smell. They can smell things that people cannot. They also hear sounds that are too high for people to hear. Many dogs like to run, play, and be with their family.",
+      "topic": "facts",
+      "subtopic": "animals",
+      "keywords": ["dog smell", "dog hearing", "senses", "pet"],
+      "question_hints": ["Can dogs smell well", "Do dogs hear better than us", "What can dogs do"]
+    },
+    {
+      "id": "animals-dog-care",
+      "text": "Dogs need food, fresh water, and a safe place to sleep. They also need walks and play time to stay healthy and happy. It is important to be gentle with dogs and not bother them when they eat or sleep.",
+      "topic": "facts",
+      "subtopic": "animals",
+      "keywords": ["dog care", "pet care", "feeding", "walks", "safe"],
+      "question_hints": ["What do dogs need", "How to look after a dog", "How to be safe with dogs"]
+    },
+    {
+      "id": "animals-cat",
+      "text": "Cats are furry pets that many people keep at home. They like to nap, play, and sometimes hunt. Cats can purr when they are happy. They need food, water, a litter box, and a safe place to rest.",
+      "topic": "facts",
+      "subtopic": "animals",
+      "keywords": ["cat", "cats", "kitten", "pet", "purr"],
+      "question_hints": ["What is a cat", "Why do cats purr", "What do cats need"]
+    },
+    {
+      "id": "animals-bird",
+      "text": "Birds have feathers and wings. Most birds can fly. They lay eggs and have beaks instead of teeth. Birds live in many places: in trees, near water, or in your garden. Parrots and canaries are birds people keep as pets.",
+      "topic": "facts",
+      "subtopic": "animals",
+      "keywords": ["bird", "birds", "feathers", "fly", "eggs", "beak"],
+      "question_hints": ["What are birds", "Do all birds fly", "What do birds have"]
+    },
+    {
+      "id": "animals-fish",
+      "text": "Fish live in water. They have fins and gills so they can swim and breathe under water. Fish lay eggs. Some fish live in the sea, some in rivers or lakes. Pet fish often live in a tank or bowl.",
+      "topic": "facts",
+      "subtopic": "animals",
+      "keywords": ["fish", "fins", "gills", "water", "aquarium"],
+      "question_hints": ["Where do fish live", "How do fish breathe", "What do fish have"]
+    },
+    {
+      "id": "animals-elephant",
+      "text": "Elephants are very big animals. They have long trunks they use to drink, eat, and wash. They have big ears and thick skin. Elephants are plant-eaters and live in family groups. They are found in Africa and Asia.",
+      "topic": "facts",
+      "subtopic": "animals",
+      "keywords": ["elephant", "trunk", "big", "Africa", "Asia"],
+      "question_hints": ["What is an elephant", "What does an elephant use its trunk for", "Where do elephants live"]
+    },
+    {
+      "id": "animals-butterfly",
+      "text": "Butterflies are insects with colourful wings. They start as caterpillars, then form a chrysalis, and turn into a butterfly. This change is called metamorphosis. Butterflies like flowers and sunny places.",
+      "topic": "facts",
+      "subtopic": "animals",
+      "keywords": ["butterfly", "caterpillar", "wings", "chrysalis", "metamorphosis"],
+      "question_hints": ["How does a caterpillar become a butterfly", "What is a butterfly", "Butterfly life cycle"]
+    },
+    {
+      "id": "animals-pets-kind",
+      "text": "Being kind to animals means giving them what they need and not hurting them. Pat pets gently, do not pull tails or ears, and never disturb an animal when it is eating or sleeping. If you are unsure, ask a grown-up.",
+      "topic": "facts",
+      "subtopic": "animals",
+      "keywords": ["kind to animals", "pet safety", "gentle", "care"],
+      "question_hints": ["How to be kind to animals", "Is it okay to pull a dog’s tail", "How to be safe with pets"]
+    }
+  ]
+}

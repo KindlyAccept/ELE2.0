@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "id": "space-sun-what",
+      "text": "The Sun is a star. It is in the middle of our solar system. It is a huge ball of hot gas that gives us light and warmth. Earth and the other planets go around the Sun.",
+      "topic": "facts",
+      "subtopic": "space",
+      "keywords": ["sun", "star", "solar system", "light", "warmth"],
+      "question_hints": ["What is the Sun", "Is the Sun a star", "What gives us light"]
+    },
+    {
+      "id": "space-sun-size",
+      "text": "The Sun is very big. More than a million Earths could fit inside it. It looks small in the sky because it is very far away. Never look straight at the Sun; it can hurt your eyes.",
+      "topic": "facts",
+      "subtopic": "space",
+      "keywords": ["sun size", "how big is the sun", "earth compare", "distance"],
+      "question_hints": ["How big is the Sun", "Can Earth fit in the Sun", "Why does the Sun look small"]
+    },
+    {
+      "id": "space-earth-orbit",
+      "text": "Earth goes around the Sun. One full trip takes one year. Earth also spins itself; one spin is one day. That is why we have day and night and the four seasons.",
+      "topic": "facts",
+      "subtopic": "space",
+      "keywords": ["earth", "orbit", "year", "day", "seasons"],
+      "question_hints": ["How long is a year", "Why do we have day and night", "Does Earth move around the Sun"]
+    },
+    {
+      "id": "space-moon",
+      "text": "The Moon is Earth’s only natural satellite. It goes around Earth. It does not make its own light; we see it because sunlight bounces off it. The Moon has phases, like full moon and crescent.",
+      "topic": "facts",
+      "subtopic": "space",
+      "keywords": ["moon", "satellite", "phases", "full moon", "crescent"],
+      "question_hints": ["What is the Moon", "Does the Moon make light", "Why does the Moon change shape"]
+    },
+    {
+      "id": "space-planets",
+      "text": "There are eight planets in our solar system. In order from the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Mercury is the smallest; Jupiter is the biggest.",
+      "topic": "facts",
+      "subtopic": "space",
+      "keywords": ["planets", "solar system", "mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune"],
+      "question_hints": ["How many planets are there", "Name the planets", "What is the biggest planet"]
+    },
+    {
+      "id": "space-mars",
+      "text": "Mars is the fourth planet from the Sun. It is often called the Red Planet because it looks red in the sky. Scientists send robots called rovers to Mars to take pictures and look for signs of past water.",
+      "topic": "facts",
+      "subtopic": "space",
+      "keywords": ["mars", "red planet", "rover", "fourth planet"],
+      "question_hints": ["Why is Mars red", "What is Mars", "Robots on Mars"]
+    },
+    {
+      "id": "space-stars",
+      "text": "Stars are huge balls of hot gas that make their own light. The Sun is a star. At night we see many other stars. They are very far away, so they look like tiny points of light.",
+      "topic": "facts",
+      "subtopic": "space",
+      "keywords": ["stars", "night sky", "light", "galaxy"],
+      "question_hints": ["What are stars", "Why do stars twinkle", "Are stars like the Sun"]
+    },
+    {
+      "id": "space-astronaut",
+      "text": "Astronauts are people who go into space. They wear special suits so they can breathe and stay safe. They can walk on the Moon or live on the International Space Station and do experiments.",
+      "topic": "facts",
+      "subtopic": "space",
+      "keywords": ["astronaut", "space suit", "moon landing", "space station"],
+      "question_hints": ["What is an astronaut", "Do astronauts need a suit", "Who goes to the Moon"]
+    },
+    {
+      "id": "space-gravity",
+      "text": "Gravity is a force that pulls things toward each other. Earth’s gravity pulls you to the ground so you do not float away. In space there is very little gravity, so astronauts float.",
+      "topic": "facts",
+      "subtopic": "space",
+      "keywords": ["gravity", "float", "weight", "space"],
+      "question_hints": ["Why do we stay on the ground", "What is gravity", "Why do astronauts float"]
+    }
+  ]
+}

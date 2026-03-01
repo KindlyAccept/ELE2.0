@@ -1,0 +1,75 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# virtual envs (if any)
+.venv/
+.env
+.venv_thesis/
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+/.pyenv
+.pyenv/
+.python-version
+
+# data and models (only ignore large model files under Data/Models)
+Data/Models/
+
+*.onnx
+*.bin
+*.gguf
+*.data
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# logs
+*.log
+
+# Knowledge base embedding cache
+knowledge/cache/
+
+# Skills / internal
+.cursor/
+.shared/
+
+# Thesis / internal docs
+Documents/Thesis/
+Documents/
+
+# Local config (copy from config.example.yaml)
+config.yaml
+
+# Test outputs
+tests/performance/results/
+tests/ablation/results/
+tests/comparison/results/
+tests/case_study/results/
+
+# Recorded data (wav, video, csv)
+Data/Dialogues/*.wav
+Data/Dialogues/*.mp4
+Data/Dialogues/recordings.csv
+
+# Web monitor
+web_monitor/frontend/node_modules/
+web_monitor/frontend/dist/
+*.db
+
+# Coverage / temp
+.coverage
+htmlcov/
+*.bak
+*.tmp
+*.swp
+*.swo

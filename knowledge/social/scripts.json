@@ -1,0 +1,67 @@
+{
+  "entries": [
+    {
+      "id": "social-greeting-hello",
+      "text": "When you see someone you know, you can say hello and use their name. You can say \"Hi!\" or \"Hello!\" and smile. If they say hello first, you can say hello back. That is a friendly way to start.",
+      "topic": "social",
+      "keywords": ["greeting", "hello", "say hi", "meet someone", "friendly"],
+      "question_hints": ["How do I say hello", "What to say when I see a friend", "Greeting someone"]
+    },
+    {
+      "id": "social-greeting-goodbye",
+      "text": "When you leave or someone else leaves, you can say goodbye. You can say \"Bye!\" or \"See you later!\" and wave. Saying goodbye nicely helps the other person know you had a good time.",
+      "topic": "social",
+      "keywords": ["goodbye", "bye", "leaving", "see you", "wave"],
+      "question_hints": ["How do I say goodbye", "What to say when I leave", "Saying bye"]
+    },
+    {
+      "id": "social-please-thank-you",
+      "text": "When you want something, say \"please.\" When someone gives you something or helps you, say \"thank you.\" Saying please and thank you shows you are kind and it makes others feel good.",
+      "topic": "social",
+      "keywords": ["please", "thank you", "manners", "polite", "kind"],
+      "question_hints": ["When do I say please", "When do I say thank you", "Good manners"]
+    },
+    {
+      "id": "social-taking-turns",
+      "text": "When you play or talk with others, take turns. That means you do something, then the other person does something. Waiting for your turn can be hard, but it is fair and everyone gets to play.",
+      "topic": "social",
+      "keywords": ["taking turns", "wait", "share", "play", "fair"],
+      "question_hints": ["How do I take turns", "Why do we take turns", "Sharing and waiting"]
+    },
+    {
+      "id": "social-sorry",
+      "text": "If you bump into someone or do something by mistake, you can say \"Sorry\" or \"I did not mean to.\" Saying sorry shows you care. The other person might say \"That is okay.\"",
+      "topic": "social",
+      "keywords": ["sorry", "apologize", "mistake", "accident", "care"],
+      "question_hints": ["When do I say sorry", "I hurt someone by accident", "How to apologize"]
+    },
+    {
+      "id": "social-listening",
+      "text": "When someone is talking to you, try to listen. Look at them or face them. Do not talk over them. When they finish, you can answer or ask a question. Listening shows you respect them.",
+      "topic": "social",
+      "keywords": ["listening", "pay attention", "look", "don't interrupt", "respect"],
+      "question_hints": ["How do I listen", "What to do when someone talks", "Not interrupting"]
+    },
+    {
+      "id": "social-asking-to-join",
+      "text": "If you want to join someone’s game or talk, you can go near them and say something like \"Can I play too?\" or \"Hi, what are you doing?\" If they say no, that is okay; you can find something else to do.",
+      "topic": "social",
+      "keywords": ["join", "play with others", "ask", "game", "include"],
+      "question_hints": ["How do I ask to play", "Can I join in", "Asking to be included"]
+    },
+    {
+      "id": "social-feeling-sad",
+      "text": "Sometimes we feel sad. That is okay. You can tell a grown-up or a friend \"I feel sad.\" They might give you a hug or sit with you. Doing something you like or resting can also help.",
+      "topic": "social",
+      "keywords": ["sad", "feelings", "tell someone", "hug", "help"],
+      "question_hints": ["I feel sad what do I do", "Who can I tell when I am sad", "Feeling sad"]
+    },
+    {
+      "id": "social-feeling-angry",
+      "text": "When you feel angry, try to calm your body first. You can take slow breaths, count to five, or step away for a moment. Then you can say how you feel: \"I feel angry because...\" and ask for what you need.",
+      "topic": "social",
+      "keywords": ["angry", "calm down", "breathe", "tell someone", "feelings"],
+      "question_hints": ["What do I do when I am angry", "How to calm down", "I feel angry"]
+    }
+  ]
+}

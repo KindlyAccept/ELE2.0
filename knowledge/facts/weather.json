@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "id": "weather-rain",
+      "text": "Rain is water that falls from clouds. The Sun heats water in seas and lakes; it goes up as vapour and forms clouds. When the clouds get heavy, drops fall as rain. Rain helps plants grow.",
+      "topic": "facts",
+      "subtopic": "weather",
+      "keywords": ["rain", "clouds", "water", "drops", "wet"],
+      "question_hints": ["Why does it rain", "Where does rain come from", "What is rain"]
+    },
+    {
+      "id": "weather-snow",
+      "text": "Snow is frozen rain. When it is very cold in the cloud, water freezes into tiny ice crystals and falls as snow. Each snowflake has its own shape. Snow is fun to play in but wear warm clothes.",
+      "topic": "facts",
+      "subtopic": "weather",
+      "keywords": ["snow", "snowflake", "cold", "ice", "winter"],
+      "question_hints": ["What is snow", "Why does it snow", "Are snowflakes the same"]
+    },
+    {
+      "id": "weather-thunder",
+      "text": "Thunder is the loud sound you hear during a storm. Lightning is a flash of light in the sky. They happen together but we see lightning before we hear thunder because light travels faster than sound. Inside is the safest place in a storm.",
+      "topic": "facts",
+      "subtopic": "weather",
+      "keywords": ["thunder", "lightning", "storm", "sound", "safe"],
+      "question_hints": ["What is thunder", "Why do we see lightning first", "What to do in a storm"]
+    },
+    {
+      "id": "weather-rainbow",
+      "text": "A rainbow appears when sunlight passes through rain or water in the air. The light splits into colours: red, orange, yellow, green, blue, indigo, violet. You often see a rainbow when the Sun comes out after rain.",
+      "topic": "facts",
+      "subtopic": "weather",
+      "keywords": ["rainbow", "colours", "rain", "sun", "light"],
+      "question_hints": ["How is a rainbow made", "What colours are in a rainbow", "When do we see rainbows"]
+    },
+    {
+      "id": "weather-wind",
+      "text": "Wind is moving air. When air gets warm it rises and cooler air moves in. That movement is wind. A gentle wind is nice; a strong wind can make trees sway. Wind can turn windmills and fly kites.",
+      "topic": "facts",
+      "subtopic": "weather",
+      "keywords": ["wind", "air", "blow", "breeze", "kite"],
+      "question_hints": ["What is wind", "Why does the wind blow", "What can wind do"]
+    },
+    {
+      "id": "weather-seasons-why",
+      "text": "We have four seasons because Earth is slightly tilted. When your part of Earth tilts toward the Sun it is summer; when it tilts away it is winter. Spring and autumn are in between.",
+      "topic": "facts",
+      "subtopic": "weather",
+      "keywords": ["seasons", "summer", "winter", "spring", "autumn", "tilt"],
+      "question_hints": ["Why do we have seasons", "Why is it hot in summer", "What causes winter"]
+    }
+  ]
+}

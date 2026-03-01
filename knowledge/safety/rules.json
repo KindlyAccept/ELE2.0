@@ -1,0 +1,67 @@
+{
+  "entries": [
+    {
+      "id": "safety-strangers",
+      "text": "Do not go with someone you do not know, even if they say they have a present or know your family. Stay where you can see a grown-up you trust. If someone you do not know tries to take you somewhere, say \"No!\" and tell a trusted adult right away.",
+      "topic": "safety",
+      "keywords": ["stranger", "do not go", "trusted adult", "say no", "stay safe"],
+      "question_hints": ["What if a stranger asks me to come", "Who can I go with", "Stranger danger"]
+    },
+    {
+      "id": "safety-crossing-road",
+      "text": "When you cross the road, use a crossing if there is one. Look left, right, and left again before you step out. Hold a grown-up’s hand if you are young. Never run into the road.",
+      "topic": "safety",
+      "keywords": ["road", "crossing", "look both ways", "hold hand", "traffic"],
+      "question_hints": ["How do I cross the road", "What to do before crossing", "Road safety"]
+    },
+    {
+      "id": "safety-water",
+      "text": "Do not go into deep water or swim without a grown-up watching. Stay where you can stand if you are in a pool. If someone is in trouble in the water, tell a grown-up; do not jump in yourself.",
+      "topic": "safety",
+      "keywords": ["water", "swimming", "pool", "adult", "drowning"],
+      "question_hints": ["Can I swim alone", "What to do near water", "Water safety"]
+    },
+    {
+      "id": "safety-fire",
+      "text": "Do not touch matches, lighters, or the stove. If you see fire or smoke, tell a grown-up right away. If there is a fire at home, get outside and go to your meeting place. Do not go back inside.",
+      "topic": "safety",
+      "keywords": ["fire", "matches", "lighter", "tell adult", "get out"],
+      "question_hints": ["What if I see fire", "Can I use a lighter", "Fire safety"]
+    },
+    {
+      "id": "safety-online",
+      "text": "Do not tell people online your real name, address, or school unless a trusted grown-up says it is okay. Do not meet someone you only know from the internet without a grown-up. If something online feels wrong, tell a grown-up.",
+      "topic": "safety",
+      "keywords": ["online", "internet", "privacy", "do not share", "tell adult"],
+      "question_hints": ["Should I tell my name online", "Someone online wants to meet", "Internet safety"]
+    },
+    {
+      "id": "safety-body-boundaries",
+      "text": "Your body belongs to you. No one should touch you in a way that makes you feel uncomfortable. If someone does, say \"No\" or \"Stop\" and tell a trusted grown-up. It is never your fault.",
+      "topic": "safety",
+      "keywords": ["body", "private", "no", "tell adult", "safe"],
+      "question_hints": ["Someone touched me and I don't like it", "What if I feel uncomfortable", "My body my rules"]
+    },
+    {
+      "id": "safety-medicine",
+      "text": "Medicine and pills can be dangerous if you take the wrong amount or take someone else’s. Only take medicine when a grown-up gives it to you. Do not eat or drink things from bottles under the sink or in cabinets.",
+      "topic": "safety",
+      "keywords": ["medicine", "pills", "grown-up", "poison", "do not take"],
+      "question_hints": ["Can I take medicine myself", "What if I find pills", "Medicine safety"]
+    },
+    {
+      "id": "safety-emergency-number",
+      "text": "In a real emergency, like someone badly hurt or a fire, a grown-up can call for help. In many places the number is 911 or 999. Know your full name and address so you can tell the person on the phone if a grown-up asks you to.",
+      "topic": "safety",
+      "keywords": ["emergency", "911", "999", "call", "help"],
+      "question_hints": ["What number do I call in emergency", "When to call 911", "Emergency help"]
+    },
+    {
+      "id": "safety-pets-unknown",
+      "text": "Do not approach or touch a dog or other animal you do not know without asking the owner. If a dog is loose and you are scared, stand still like a tree; do not run. Tell a grown-up about the animal.",
+      "topic": "safety",
+      "keywords": ["dog", "unknown animal", "ask owner", "do not run", "stand still"],
+      "question_hints": ["Can I pet that dog", "A dog is running at me", "Strange animal safety"]
+    }
+  ]
+}

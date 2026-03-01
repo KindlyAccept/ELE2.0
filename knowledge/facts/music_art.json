@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "id": "music-what",
+      "text": "Music is sounds put together in a pattern. People make music with voices or instruments. Music can be fast or slow, loud or quiet. Listening to music or making it can make you feel happy or calm.",
+      "topic": "facts",
+      "subtopic": "music_art",
+      "keywords": ["music", "song", "instruments", "sing", "sound"],
+      "question_hints": ["What is music", "How do we make music", "Why do people like music"]
+    },
+    {
+      "id": "music-instruments",
+      "text": "Instruments are things we use to make music. A guitar and piano have strings. A drum you hit. A flute you blow. You can start with something simple like a shaker or a small keyboard.",
+      "topic": "facts",
+      "subtopic": "music_art",
+      "keywords": ["instrument", "instruments", "guitar", "piano", "drum", "flute"],
+      "question_hints": ["What are musical instruments", "Name some instruments", "How do you play a drum"]
+    },
+    {
+      "id": "music-sing",
+      "text": "Singing is using your voice to make music. You can sing alone or with others. Songs have words and a tune. Singing can be fun and it can help you feel better. There is no wrong way to enjoy singing.",
+      "topic": "facts",
+      "subtopic": "music_art",
+      "keywords": ["sing", "singing", "song", "voice", "tune"],
+      "question_hints": ["What is singing", "Can anyone sing", "Why do we sing"]
+    },
+    {
+      "id": "art-colours",
+      "text": "Art is making something that looks or feels nice: a picture, a sculpture, or a collage. Colours can be mixed: red and yellow make orange; blue and yellow make green. You can use crayons, paint, or pencils.",
+      "topic": "facts",
+      "subtopic": "music_art",
+      "keywords": ["art", "colours", "paint", "draw", "mix colours"],
+      "question_hints": ["What is art", "What do red and yellow make", "How do we make colours"]
+    },
+    {
+      "id": "art-draw",
+      "text": "Drawing is making pictures with lines. You can draw with a pencil, pen, or crayon. You can draw people, animals, or things you imagine. There is no right or wrong; just try and have fun.",
+      "topic": "facts",
+      "subtopic": "music_art",
+      "keywords": ["draw", "drawing", "pencil", "picture", "crayon"],
+      "question_hints": ["How do I draw", "What can I draw", "What do we use to draw"]
+    },
+    {
+      "id": "art-dance",
+      "text": "Dance is moving your body to music. You can jump, spin, or sway. Dancing is a way to have fun and use your energy. You can dance alone or with friends. Everyone can dance in their own way.",
+      "topic": "facts",
+      "subtopic": "music_art",
+      "keywords": ["dance", "dancing", "move", "music", "fun"],
+      "question_hints": ["What is dancing", "Can I dance", "Why do people dance"]
+    }
+  ]
+}
